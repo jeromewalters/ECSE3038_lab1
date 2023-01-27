@@ -13,7 +13,7 @@ def parallel(list_of_resistors):
     return (1/total_resistance)
 
 list_of_resistors = [1000, 1000,1000]
-print(parallel(list_of_resistors), "ohms")
+print(parallel(list_of_resistors), " ohms")
 
 
 
